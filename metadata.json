@@ -1,0 +1,5 @@
+{
+  "name": "LexiFlow - Immersive Vocabulary",
+  "description": "An interactive English vocabulary learning tool that adapts to your proficiency level. Input words to generate context-aware sentences, dialogues, and AI-generated illustrations, then reinforce your memory with a custom game.",
+  "requestFramePermissions": []
+}
